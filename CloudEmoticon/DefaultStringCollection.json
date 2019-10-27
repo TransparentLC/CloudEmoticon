@@ -1,0 +1,82 @@
+{
+  "alias": "使用说明",
+  "information": [
+    "✨小透明・宸✨　2018.8.24"
+  ],
+  "categories": [
+    {
+      "entries": [
+        {
+          "emoticon": "现在还没有载入词库文件",
+          "description": ""
+        },
+        {
+          "emoticon": "右键单击托盘进行载入～",
+          "description": ""
+        },
+        {
+          "emoticon": "对于多行文本内容，这里只会显示前两行",
+          "description": ""
+        },
+        {
+          "emoticon": "按下键盘上的数字键0-9输入内容",
+          "description": ""
+        },
+        {
+          "emoticon": "更换分组请按两个方括号键[]",
+          "description": ""
+        },
+        {
+          "emoticon": "翻页请按减号键-和等号键=",
+          "description": ""
+        },
+        {
+          "emoticon": "如果按键后没有反应，请点击程序本体获得焦点",
+          "description": ""
+        },
+        {
+          "emoticon": "双击程序本体的空白部分或按Esc可以让窗体滑回去",
+          "description": ""
+        },
+        {
+          "emoticon": "输入无效或异常时，请手动按下Ctrl+V",
+          "description": ""
+        },
+        {
+          "emoticon": "在托盘里还可以设置皮肤哦～",
+          "description": ""
+        },
+        {
+          "emoticon": "如果看到了这一项，说明你已经到了第二页啦！",
+          "description": ""
+        }
+      ],
+      "name": "主程序"
+    },
+    {
+      "entries": [
+        {
+          "emoticon": "右键单击托盘，在“载入词库文件”中找到“词库编辑器”～",
+          "description": ""
+        },
+        {
+          "emoticon": "双击分组可以进行重命名",
+          "description": ""
+        },
+        {
+          "emoticon": "文本内容支持多行，尝试把这个文本打出来～\r\n\r\n（如果不使用Consolas之类的等宽字体会导致以下内容被\\ｱｯｶﾘ～ﾝ/化）\r\n\r\n                                        /*\r\n                                       +\r\n                                      +\r\n                                     +\r\n                                     +\r\n                                     [         >i>n[t\r\n                                      */   #include<stdio.h>\r\n                         /*2w0,1m2,]_<n+a m+o>r>i>=>(['0n1'0)1;\r\n                      */int/**/main(int/**/n,char**m){FILE*p,*q;int        A,k,a,r,i/*\r\n                    #uinndcelfu_dset<rsitcdti_oa.nhs>i/_*/;char*d=\"P%\"   \"d\\n%d\\40%d\"/**/\r\n                  \"\\n%d\\n\\00wb+\",b[1024],y[]=\"yuriyurarararayuruyuri*daijiken**akkari~n**\"\r\n           \"/y*u*k/riin<ty(uyr)g,aur,arr[a1r2a82*y2*/u*r{uyu}riOcyurhiyua**rrar+*arayra*=\"\r\n        \"yuruyurwiyuriyurara'rariayuruyuriyuriyu>rarararayuruy9uriyu3riyurar_aBrMaPrOaWy^?\"\r\n       \"*]/f]`;hvroai<dp/f*i*s/<ii(f)a{tpguat<cahfaurh(+uf)a;f}vivn+tf/g*`*w/jmaa+i`ni(\"/**\r\n      */\"i+k[>+b+i>++b++>l[rb\";int/**/u;for(i=0;i<101;i++)y[i*2]^=\"~hktrvg~dmG*eoa+%squ#l2\"\r\n      \":(wn\\\"1l))v?wM353{/Y;lgcGp`vedllwudvOK`cct~[|ju {stkjalor(stwvne\\\"gt\\\"yogYURUYURI\"[\r\n      i]^y[i*2+1]^4;/*!*/p=(n>1&&(m[1][0]-'-'||m[1][1]  !='\\0'))?fopen(m[1],y+298):stdin;\r\n       /*y/riynrt~(^w^)],]c+h+a+r+*+*[n>)+{>f+o<r<(-m]    =<2<5<64;}-]-(m+;yry[rm*])/[*\r\n        */q=(n<3||!(m[2][0]-'-'||m[2][1]))?stdout /*]{     }[*/:fopen(m[2],d+14);if(!p||/*\r\n        \"]<<*-]>y++>u>>+r >+u+++y>--u---r>++i+++\"  <)<      ;[>-m-.>a-.-i.++n.>[(w)*/!q/**/)\r\n     return+printf(\"Can \"  \"not\\x20open\\40%s\\40\"    \"\"       \"for\\40%sing\\n\",m[!p?1:2],!p?/*\r\n   o=82]5<<+(+3+1+&.(+  m  +-+1.)<)<|<|.6>4>-+(>    m-        &-1.9-2-)-|-|.28>-w-?-m.:>([28+\r\n  */\"read\":\"writ\");for  (   a=k=u= 0;y[u];  u=2    +u){y[k++   ]=y[u];}if((a=fread(b,1,1024/*\r\n ,mY/R*Y\"R*/,p/*U*/)/*          R*/ )>/*U{  */   2&& b/*Y*/[0]/*U*/=='P' &&4==/*\"y*r/y)r\\}\r\n */sscanf(b,d,&k,& A,&           i,  &r)&&        !   (k-6&&k -5)&&r==255){u=A;if(n>3){/*\r\n ]&<1<6<?<m.-+1>3> +:+ .1>3+++     .   -m-)      -;.u+=++.1<0< <; f<o<r<(.;<([m(=)/8*/\r\n u++;i++;}fprintf   (q,    d,k,           u      >>1,i>>1,r);u  = k-5?8:4;k=3;}else\r\n   /*]>*/{(u)=/*{   p> >u  >t>-]s                >++(.yryr*/+(    n+14>17)?8/4:8*5/\r\n      4;}for(r=i=0  ;  ;){u*=6;u+=                (n>3?1:0);if    (y[u]&01)fputc(/*\r\n       <g-e<t.c>h.a r  -(-).)8+<1.                 >;+i.(<)<     <)+{+i.f>([180*/1*\r\n       (r),q);if(y[u   ]&16)k=A;if                               (y[u]&2)k--;if(i/*\r\n       (\"^w^NAMORI; {   I*/==a/*\"                               )*/){/**/i=a=(u)*11\r\n        &255;if(1&&0>=     (a=                                 fread(b,1,1024,p))&&\r\n         \")]i>(w)-;} {                                         /i-f-(-m--M1-0.)<{\"\r\n          [ 8]==59/* */                                       )break;i=0;}r=b[i++]\r\n             ;u+=(/**>>                                     *..</<<<)<[[;]**/+8&*\r\n             (y+u))?(10-              r?4:2):(y[u]         &4)?(k?2:4):2;u=y[u/*\r\n              49;7i\\(w)/;}             y}ru\\=*ri[        ,mc]o;n}trientuu ren (\r\n              */]-(int)'`';}             fclose(          p);k= +fclose( q);\r\n               /*] <*.na/m*o{ri{                       d;^w^;}  }^_^}}\r\n                \"   */   return  k-                -1+   /*\\'   '-`*/\r\n                      (   -/*}/   */0x01        );       {;{    }}\r\n                             ;           /*^w^*/        ;}\r\n\r\n参见：\r\nhttps://www.ioccc.org/2011/akari/akari.c\r\nhttps://www.ioccc.org/2011/akari/hint.html",
+          "description": "这是第20届国际C语言混乱代码大赛最佳展示奖项，原始源代码为一个赤座灯里头像的ASCII艺术画，编译后是一个支持三种文件格式（PGM、PPM和ASCII Art）的降采样工具，并且可以将自身源代码进行再处理成了另一个源代码。\r\n\r\n将原始源代码用原始源代码编译的程序处理后会输出源码1，缩小的灯里头像ASCII画，编译源码1的程序也会输出一个灯里头像ASCII画。\r\n\r\n将源代码1用原始源代码编译的程序处理后会输出源码2，更小的灯里头像ASCII画，编译源码2的程序会输出无空格小写的作品罗马名“yuruiyuri”。\r\n\r\n将源代码2用原始源代码编译的程序处理后会输出源码3，最小并不太明显的灯里头像ASCII画，编译源码3的程序会输出带空格大写的作品罗马名“YU RU YU RI”。"
+        },
+        {
+          "emoticon": "注释内容可加可不加，目前也不会显示在主程序上",
+          "description": ""
+        },
+        {
+          "emoticon": "编辑文本后不要忘记保存哦～",
+          "description": ""
+        }
+      ],
+      "name": "编辑器"
+    }
+  ]
+}
